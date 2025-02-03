@@ -6,7 +6,7 @@ Second, open up buffer account and connect it to google photos using the "add vi
 The goal is to buffer each photo in google photo. Each photo in google Photos should be a single post in buffer. 
 
 1. Use the "add post" button in buffer to open the new post popup. 
-2. Use the "add post via google photos" button to open up the google photos selector. This button is the furthest left button underneath the text input box on the new post popup. There is an emoji which is right next to it, which is easy to click. Try not to click that one. 
+2. Use the "add post via google photos" button to open up the google photos selector. This button is the furthest left button underneath the text input box on the new post popup. There is an emoji selector right next to it, which is easy to click. Try not to click that one. 
 3. Select the first photo (top left in the UI). If there are no photos, try the "load more" button.
 4. Wait for the photo to be added to the post. If the photo is not added to the post successfully, pause and notify me.
 5. Double check that there is only one image attached to the post. If there are two, remove one of them. 
