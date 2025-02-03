@@ -1,0 +1,18 @@
+I have about 30 images in google photos that I want to have scheduled to post in my Buffer. ## It tends to get confused if you give it more than 30. It slowly loses attention and starts doing its own thing.
+
+First, log into google photos (wait for me to log in with my credentials)
+Second, open up buffer account and connect it to google photos using the "add via google photos" button. 
+
+The goal is to buffer each photo in google photo. Each photo in google Photos should be a single post in buffer. 
+
+1. Use the "add post" button in buffer to open the new post popup. 
+2. Use the "add post via google photos" button to open up the google photos selector. This button is the furthest left button underneath the text input box on the new post popup. There is an emoji which is right next to it, which is easy to click. Try not to click that one. 
+3. Select the first photo (top left in the UI). If there are no photos, try the "load more" button.
+4. Wait for the photo to be added to the post. If the photo is not added to the post successfully, pause and notify me.
+5. Double check that there is only one image attached to the post. If there are two, remove one of them. 
+6. Submit the post.
+7. Go to google photos and delete the first photo (top left in the UI). 
+
+Repeat until all the photos are buffered and there are no more photos in Google photos.
+
+Do not ask for confirmation from me when deleting a photo from google photos or posting to buffer.
