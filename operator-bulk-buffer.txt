@@ -2,8 +2,9 @@ I have about 30 images in google photos that I want to have scheduled to post in
 
 First, log into google photos (wait for me to log in with my credentials)
 Second, open up buffer account and connect it to google photos using the "add via google photos" button. 
+Third, on the left hand side of the buffer page, select only the instagram account. This will ensure you only post to instagram, not any other account linked to this buffer account.
 
-The goal is to buffer each photo in google photo. Each photo in google Photos should be a single post in buffer. 
+The goal is to buffer each photo in google photos. Each photo in google Photos should be a single post in buffer. 
 
 1. Use the "add post" button in buffer to open the new post popup. 
 2. Use the "add post via google photos" button to open up the google photos selector. This button is the furthest left button underneath the text input box on the new post popup. There is an emoji selector right next to it, which is easy to click. Try not to click that one. 
@@ -16,3 +17,5 @@ The goal is to buffer each photo in google photo. Each photo in google Photos sh
 Repeat until all the photos are buffered and there are no more photos in Google photos.
 
 Do not ask for confirmation from me when deleting a photo from google photos or posting to buffer.
+
+Make sure that you are only posting to instagram, not any other platforms. 
