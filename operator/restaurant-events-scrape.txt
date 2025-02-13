@@ -13,4 +13,4 @@ For each row in the sheets doc,
 - The email might be in a pdf which they use to advertise their event
 - The restaurant might belong to a restaurant group, which has one team handling all of its locations' events. If so, visit the restaurant group's website to find the data
 
-Keep things organized by closing all browser tabs except the spreadsheet after you are done with each restaurant.
+Keep things organized by closing all browser tabs except the spreadsheet after you are done with each restaurant. Never close the spreadsheet tab because you will need it to complete the task.
