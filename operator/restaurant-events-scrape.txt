@@ -1,13 +1,16 @@
-I'm looking for the contact information for the events team at the restaurants listed in this google sheets doc:
+Goal: Find the contact information for the events team at the restaurants listed in this google sheets doc:
 https://docs.google.com/spreadsheets/d/1bnHaysH6P8c3vRsKweqjF8Cw36uRpDjuevjNkmbOXSU/edit?gid=0#gid=0
 
 For each row in the sheets doc, 
 1. Visit the website of the restaurant
-2. Navigate around to look for three pieces of information: the events contact email, the general contact email, and the link to the events inquiry submission form
-3. Fill in that information in the spreadsheet
-
-The events contact info is the direct email to the events team. This is usually events@restuaurant.com. The general contact info is usually info@restaurant.com.
-
-Some notes: 
-- the email might be in a pdf which they use to advertise their event
+2. Find the events inquiry form and paste the url into the "Event Form Link" column of the spreadsheet.
+3. Find the general inquiry email and paste it into the "General Contact Email" column of the spreadsheet.
+- This is the email which is the general inbox of the restaurant. In many restaurants, this email might be "info@restaurant.com"
+- You might find this in a dedicated "contact us" page or in the footer of the website. Look there first, then look elsewhere.
 - the restaurant might belong in a restaurant group, so the contact info might be in the group's website
+4. Find the events contact email and paste it into the "Events Contact Email" column of the spreadsheet.
+- This is the email which is the direct inbox of the events team. In many restaurants this might be "events@restaurant.com"
+- The email might be in a pdf which they use to advertise their event
+- The restaurant might belong to a restaurant group, which has one team handling all of its locations' events. If so, visit the restaurant group's website to find the data
+
+Keep things organized by closing all browser tabs except the spreadsheet after you are done with each restaurant.
