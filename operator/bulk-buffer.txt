@@ -18,4 +18,6 @@ Repeat until all the photos are buffered and there are no more photos in Google 
 
 Do not ask for confirmation from me when deleting a photo from google photos or posting to buffer.
 
-Make sure that you are only posting to instagram, not any other platforms. 
+Make sure that you are only posting to instagram, not any other platforms.
+
+Make sure that each post only has one image.
