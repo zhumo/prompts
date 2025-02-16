@@ -1,5 +1,5 @@
 Goal: Find the contact information for the events team at the restaurants listed in this google sheets doc:
-https://docs.google.com/spreadsheets/d/1bnHaysH6P8c3vRsKweqjF8Cw36uRpDjuevjNkmbOXSU/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1bnHaysH6P8c3vRsKweqjF8Cw36uRpDjuevjNkmbOXSU/edit?usp=sharing
 
 For each row in the sheets doc, 
 1. Visit the website of the restaurant
